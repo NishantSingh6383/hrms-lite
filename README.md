@@ -6,6 +6,16 @@ Frontend (Live UI):
 Backend API:
 http://127.0.0.1:8000/api/v1/attendance/
 
+🔗 API Endpoints
+Method	Endpoint	Description
+GET	/api/v1/employee/	List employees
+POST	/api/v1/employee/	Create employee
+PATCH	/api/v1/employee/{id}/	Update employee
+DELETE	/api/v1/employee/{id}/	Delete employee
+GET	/api/v1/attendance/	Attendance records
+POST	/api/v1/attendance/	Mark attendance
+GET	/api/v1/dashboard/	Dashboard stats
+
 # Project Overview
 
 HRMS Lite is a lightweight Human Resource Management System developed as a full-stack web application.
