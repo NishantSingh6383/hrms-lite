@@ -1,0 +1,21 @@
+
+
+.navbar {
+  /* Add any additional styling here */
+}
+
+.navbar-light {
+  background-color: white; /* Ensures the navbar is white */
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black; /* Change text color if needed */
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: gray; /* Example: Change hover color */
+}
+
+.border {
+  border: 1px solid black; /* Adds a solid black border */
+}

@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://django-react-hr-system.onrender.com/api/v1/'
